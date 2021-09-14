@@ -25,7 +25,7 @@ public class LemonadeStand {
         //prompt for number of 16's
         int num20 = Integer.parseInt(JOptionPane.showInputDialog("How many 20 oz cups?"));
 
-        int num16 = Integer.parseInt(JOptionPane.showInputDialog("How mnay 16 oz cups"));
+        int num16 = Integer.parseInt(JOptionPane.showInputDialog("How many 16 oz cups"));
 
 
         calculateCost(num16,num20);
